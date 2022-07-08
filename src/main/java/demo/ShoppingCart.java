@@ -11,4 +11,9 @@ public class ShoppingCart {
 
         System.out.println("Llamando al método chechout de clase ShoppingCart");
     }
+
+    public int quantity(){
+        return 2;
+    }
+
 }
